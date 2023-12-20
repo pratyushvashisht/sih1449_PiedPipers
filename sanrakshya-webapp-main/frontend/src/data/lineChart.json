@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Jan",
+    "Low": 6,
+    "Moderate": 10,
+    "High": 2
+  },
+  {
+    "label": "Feb",
+    "Low": 4,
+    "Moderate": 15,
+    "High": 2
+  },
+  {
+    "label": "Mar",
+    "Low": 8,
+    "Moderate": 10,
+    "High": 1
+  },
+  {
+    "label": "Apr",
+    "Low": 9,
+    "Moderate": 18,
+    "High": 2
+  },
+  {
+    "label": "May",
+    "Low": 60,
+    "Moderate": 4,
+    "High": 5
+  },
+  {
+    "label": "Jun",
+    "Low": 1,
+    "Moderate": 8,
+    "High": 2
+  },
+  {
+    "label": "Jul",
+    "Low": 9,
+    "Moderate": 4,
+    "High": 2
+  },
+  {
+    "label": "Aug",
+    "Low": 8,
+    "Moderate": 3,
+    "High": 0
+  },
+  {
+    "label": "Sep",
+    "Low": 6,
+    "Moderate": 5,
+    "High": 0
+  },
+  {
+    "label": "Oct",
+    "Low": 8,
+    "Moderate": 4,
+    "High": 1
+  },
+  {
+    "label": "Nov",
+    "Low": 5,
+    "Moderate": 4,
+    "High": 3
+  },
+  {
+    "label": "Dec",
+    "Low": 8,
+    "Moderate": 3,
+    "High": 5
+  }
+]
